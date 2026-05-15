@@ -1,2 +1,2 @@
-**
-Small Python Number Guessing Game
+
+# Small Python Number Guessing Game
